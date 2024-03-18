@@ -1,7 +1,5 @@
 Esercizio: Flexbox Froggy & Flexbox Defense
 ===
-Descrizione:
-## Esercizio:
 Completate tutti i livelli di questi due simpatici giochini:  
 
 http://flexboxfroggy.com/  
